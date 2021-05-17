@@ -1,0 +1,21 @@
+{
+	"name": "waw-potions",
+	"title": "Wands & Wizards Potions",
+	"description": "A Compendium pack of Potions",
+
+	"packs": [
+		{
+		  "name": "potions",
+		  "label": "Potions (W&W)",
+		  "system": "dnd5e",
+		  "path": "./packs/potions.db",
+		  "entity": "Item"
+		}
+	  ],
+
+	"system": "dnd5e",
+	"author": "MadManNBlueBox",
+	"version": "0.1.0",
+	"minimumCoreVersion": "0.6.5",
+	"compatibleCoreVersion": "0.7.9"
+  }
